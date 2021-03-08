@@ -21,7 +21,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\RazorClassLibrary1\WebCore.csproj" />
     <ProjectReference Include="..\WebCore\WebCore.csproj" />
   </ItemGroup>
 
